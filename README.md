@@ -7,7 +7,7 @@ The user can create an account if they do not have one.
 # Skills used: PHP, MySQL, HTML, CSS, Bootstrap, JavaScript, and Ajax 
 
 # Employee login info
-Email: kandy1@vt.edu
+Email: kandy1@vt.edu </br>
 Password: kandy1
 
 Once logged in an employee, there will be an option to manage product where regular customer can not view.
